@@ -1,0 +1,29 @@
+title:
+  en: Boids Simulator
+  es: Simulador de Boids
+finished: finished
+descriptionShort:
+  en: Boids, or flocks, are agents that mimic the behavior of certain animals. Specifically, we can simulate the movement of birds or ants. With three simple rules—Cohesion, Alignment, and Separation—we can reproduce this fascinating behavior. Colors change based on direction, creating incredible visuals!
+  es: Los boids, o bandadas, son agentes que imitan el comportamiento de algunos animales. Se pueden utilizar para simular el movimiento de aves o insectos. Con tres reglas simples —Cohesion, Alignment y Separation— se puede recrear este comportamiento de forma sorprendente. Los colores cambian según la dirección, creando efectos visuales espectaculares.
+descriptionLong:
+  en: |
+    Boids, or flocks, are agents that mimic the behavior of certain animals. Specifically, we can simulate the movement of birds or ants. With three simple rules—Cohesion, Alignment, and Separation—we can reproduce this fascinating behavior. This project is also developed with Python and Pygame, though I could not complete the NumPy version due to lack of experience. These boids are 2D, but the same approach can be used to create 3D boids that resemble swimming animals. Colors change based on direction, and textures or procedural animations (as seen in my other projects) can also be applied.
+  es: |
+    En este proyecto, desarrollado con Python y Pygame, muestro cómo los boids pueden imitar el comportamiento de ciertos animales, como aves o insectos, mediante tres reglas simples: Cohesion, Alignment y Separation. Aunque no terminé la versión en NumPy por falta de experiencia, el resultado sigue siendo muy llamativo. Los boids son en 2D, pero el mismo concepto se puede aplicar a una simulación en 3D para representar criaturas marinas. Además, los colores varían según la dirección en la que se mueven, aunque también podrían implementarse texturas o animaciones procedurales como en mis otros proyectos.
+technologies: [python, pygame, numpy]
+tags: [other]
+logo: readme_images/Boids (1).webp
+screenShoots:
+  - readme_images/Boids (1).webp
+  - readme_images/Boids (2).webp
+  - readme_images/Boids (3).webp
+  - readme_images/Boids (4).webp
+  - readme_images/Boids (5).webp
+  - readme_images/Boids (6).webp
+  - readme_images/Boids (7).webp
+  - readme_images/Boids (8).webp
+  - readme_images/Boids (9).webp
+youtube: ExgxrMtjV3M
+slug: Boids-simulator
+order: 58
+featured: false
