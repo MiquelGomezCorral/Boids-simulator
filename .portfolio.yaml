@@ -24,6 +24,10 @@ screenShoots:
   - readme_images/Boids (8).webp
   - readme_images/Boids (9).webp
 youtube: ExgxrMtjV3M
+keywords:
+  en: [boids, flocking simulation, emergence, swarm intelligence, cohesion, alignment, separation, Craig Reynolds, bird flock, agent-based, collective behavior, artificial life]
+  es: [boids, simulación de bandadas, emergencia, inteligencia de enjambre, cohesión, alineación, separación, Craig Reynolds, bandada de pájaros, basado en agentes, comportamiento colectivo, vida artificial]
 slug: Boids-simulator
 order: 58
 featured: false
+
