@@ -11,7 +11,7 @@ descriptionLong:
   es: |
     En este proyecto, desarrollado con Python y Pygame, muestro cómo los boids pueden imitar el comportamiento de ciertos animales, como aves o insectos, mediante tres reglas simples: Cohesion, Alignment y Separation. Aunque no terminé la versión en NumPy por falta de experiencia, el resultado sigue siendo muy llamativo. Los boids son en 2D, pero el mismo concepto se puede aplicar a una simulación en 3D para representar criaturas marinas. Además, los colores varían según la dirección en la que se mueven, aunque también podrían implementarse texturas o animaciones procedurales como en mis otros proyectos.
 technologies: [python, pygame, numpy, ai]
-tags: [other]
+tags: [personal]
 logo: readme_images/Boids (1).webp
 screenShoots:
   - readme_images/Boids (1).webp
