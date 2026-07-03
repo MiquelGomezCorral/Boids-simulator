@@ -18,3 +18,16 @@ When executed you can see the keys to contol their behaevour.
 
 # Links
 See an example at: https://boids.cubedhuang.com
+
+---
+
+<!-- portfolio-gallery:start -->
+## Gallery
+
+<p align="center">
+  <img src="readme_images/Boids%20(1)_169.webp" width="48%" />
+  <img src="readme_images/Boids%20(2)_169.webp" width="48%" />
+  <img src="readme_images/Boids%20(3)_169.webp" width="48%" />
+  <img src="readme_images/Boids%20(4)_169.webp" width="48%" />
+</p>
+<!-- portfolio-gallery:end -->
