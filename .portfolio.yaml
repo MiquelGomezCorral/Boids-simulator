@@ -13,6 +13,7 @@ descriptionLong:
 technologies: [python, pygame, numpy, ai]
 tags: [personal]
 logo: readme_images/Boids (3)_169.webp
+gif: readme_images/Boids.gif
 screenShoots:
   - readme_images/Boids (1)_169.webp
   - readme_images/Boids (2)_169.webp
@@ -23,6 +24,7 @@ screenShoots:
   - readme_images/Boids (7)_169.webp
   - readme_images/Boids (8)_169.webp
   - readme_images/Boids (9)_169.webp
+  - readme_images/Boids.gif
 youtube: ExgxrMtjV3M
 date:
   en: Sep 2024
