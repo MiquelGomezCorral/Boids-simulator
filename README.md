@@ -25,9 +25,15 @@ See an example at: https://boids.cubedhuang.com
 ## Gallery
 
 <p align="center">
-  <img src="readme_images/Boids%20(1)_169.webp" width="48%" />
-  <img src="readme_images/Boids%20(2)_169.webp" width="48%" />
-  <img src="readme_images/Boids%20(3)_169.webp" width="48%" />
-  <img src="readme_images/Boids%20(4)_169.webp" width="48%" />
+  <img src="readme_images/Boids.gif" alt="Boids" width="48%" />
+  <img src="readme_images/Boids%20(1)_169.webp" alt="Boids (1)" width="48%" />
+  <img src="readme_images/Boids%20(2)_169.webp" alt="Boids (2)" width="48%" />
+  <img src="readme_images/Boids%20(3)_169.webp" alt="Boids (3)" width="48%" />
+  <img src="readme_images/Boids%20(4)_169.webp" alt="Boids (4)" width="48%" />
+  <img src="readme_images/Boids%20(5)_169.webp" alt="Boids (5)" width="48%" />
+  <img src="readme_images/Boids%20(6)_169.webp" alt="Boids (6)" width="48%" />
+  <img src="readme_images/Boids%20(7)_169.webp" alt="Boids (7)" width="48%" />
+  <img src="readme_images/Boids%20(8)_169.webp" alt="Boids (8)" width="48%" />
+  <img src="readme_images/Boids%20(9)_169.webp" alt="Boids (9)" width="48%" />
 </p>
 <!-- portfolio-gallery:end -->
